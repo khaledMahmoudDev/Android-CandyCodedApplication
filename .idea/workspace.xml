@@ -162,37 +162,45 @@
       <option name="project" value="LOCAL" />
       <updated>1601585380940</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish map task">
+      <created>1602275480477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602275480477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build project and complete first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="build project and complete first task" />
+    <MESSAGE value="finish map task" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish map task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601585380027">
+    <state x="188" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1602275479498">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="188" y="27" width="1050" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1601585380027" />
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1601587366350">
+    <state x="188" y="27" width="1050" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1602275479498" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1602275720373">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1601587366350" />
-    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1601587366349">
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1602275720373" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1602275720372">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1601587366349" />
-    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1601587366349">
+    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1602275720372" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1602275720371">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1601587366349" />
-    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1601587366350">
+    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1602275720371" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1602275720372">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1601587366350" />
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601585383915">
+    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1602275720372" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602275482381">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1601585383915" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1602275482381" />
   </component>
 </project>
